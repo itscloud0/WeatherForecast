@@ -35,7 +35,7 @@ def forecastStr(city):
     + desc + '\n' + '\n' + "Current temperature: " + str(temp)  + deg + '\n'
     + '\n' + "Feels like: " +  str(feels) + deg + '\n' + '\n' + "Humidity: " + str(humid) + "%" + '\n')
 
-email_sender = 'wthfrcst@gmail.com'
+email_sender = '' #sender's email
 email_password = keys.CODE
 
 cityStr = input("Enter a city: ")
