@@ -1,1 +1,1 @@
-CODE = 'enter a gmail app code'
+CODE = '' #enter gmail app code
